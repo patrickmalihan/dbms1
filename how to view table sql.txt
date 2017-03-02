@@ -1,0 +1,6 @@
+sqlplus phpuser/welcome
+sql>
+select * from
+	parts; 'table name
+
+
